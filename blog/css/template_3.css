@@ -494,12 +494,7 @@ ul.menu-bar li a, .dropbtn {
     text-decoration: none;
 }
 
-/*
-ul.menu-bar li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
-}
-*/
-
+ 
 ul.menu-bar li.dropdown {
     display: inline-block;
 }
