@@ -409,14 +409,14 @@ footer {
 }
 
 .join label {
-    margin-top: 4px;
+    display: inline-block;
 }
 
 .icon-compass {
-    margin-top: 10px;
+    text-decoration: none;
     color: #fff;
     background-color: #b3b0b0;
-    padding: 7px 7px 10px 7px;
+    padding: 7px 7px 11px 7px;
 }
 
 .blog-content a {
