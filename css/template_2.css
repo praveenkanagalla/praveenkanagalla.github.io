@@ -44,6 +44,11 @@ body {
     cursor: pointer;
 }
 
+a {
+    text-decoration: none;
+    color: #7b7b7b;
+}
+
 .header-icons span {
     margin: 5px;
 }
@@ -1422,7 +1427,6 @@ body {
 
 .email-button {
     display: inline-block;
-    padding: 15px 300px 15px 15px;
 }
     
 .sub-button {
